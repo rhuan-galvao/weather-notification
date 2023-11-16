@@ -1,2 +1,2 @@
 # weather-notification
-a sample weather notification for windows
+a simple weather notification for windows
