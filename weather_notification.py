@@ -22,7 +22,7 @@ try:
                 title = notification_title,  
                 message = notification_message,
                 app_name = notification_app,
-                app_icon = 'icons/bolt-solid.ico',  
+                app_icon = 'bolt-solid.ico',  
                 timeout = 5,
                 toast = False
                 )
